@@ -1,6 +1,6 @@
 {
   "name": "yf-fpm-server-cli",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "yf-fpm-server cli",
   "main": "fpm.js",
   "scripts": {
