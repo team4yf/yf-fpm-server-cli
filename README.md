@@ -9,12 +9,7 @@ $ npm install -g yf-fpm-server-cli
 
 #### 部署产品
 `
-$ fpm install
+$ fpm init
 `
 
 即可下载最新版本的 yf-fpm-server-starter 到您的当前目录下
-
-#### 启动 admin
-`
-$ fpm run
-`
