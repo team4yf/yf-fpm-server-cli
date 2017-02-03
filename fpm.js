@@ -16,7 +16,7 @@ program.command('init')
         if(err) {
           console.log('get error:' + stderr);
         } else {
-          console.log('Init the server code success!\n you shoud run: cd server && npm i && npm start');
+          console.log('Init the server code success!\n you shoud run: cd server && npm i && npm run server');
         }
       });
     });

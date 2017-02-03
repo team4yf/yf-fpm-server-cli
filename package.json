@@ -4,7 +4,7 @@
   "description": "yf-fpm-server cli",
   "main": "fpm.js",
   "scripts": {
-    "test": "node ./fpm.js install"
+    "test": "node ./fpm.js init"
   },
   "repository": {
     "type": "git",
