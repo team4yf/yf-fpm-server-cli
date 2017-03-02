@@ -19,3 +19,6 @@ public/dist/*
 uploads/*.zip
 
 key.js
+
+*.zip
+source
